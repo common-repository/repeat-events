@@ -1,0 +1,10 @@
+.bluebox-repeat-container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+.bluebox-repeat-event-section {
+    border: 1px solid gainsboro;
+    margin-bottom: 24px;
+    padding: 12px 24px
+}
